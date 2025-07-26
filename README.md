@@ -21,6 +21,7 @@ EXPLAIN -- QUESTION/CONCEPT
 ```
 SOLVE -- QUESTION 
 ```
+See [commands](commands.md) for more 
 
 ### Using it from anywhere
 CDing into the subject directory can be annoying so add this to your user PATH.
