@@ -11,6 +11,7 @@ npm install -g @google/gemini-cli
 ```
 gemini
 ```
+For further reading on gemini cli check out the [Github](https://github.com/google-gemini/gemini-cli).
 
 ## Usage
 - Use prompts such as this
